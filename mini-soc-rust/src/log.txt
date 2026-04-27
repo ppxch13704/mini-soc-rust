@@ -1,0 +1,32 @@
+INFO User login success
+ERROR Failed password root
+WARN Multiple login attempts
+ERROR SQL Injection attempt
+WARN Port scan detected
+ERROR Malware signature found
+WARN USB device mounted
+ERROR Reverse shell detected
+INFO Dashboard opened
+ERROR Connection to blacklist IP
+ERROR Failed password root
+ERROR Failed password admin
+WARN Multiple login attempts
+ALERT brute force detected
+INFO User locked after retries
+ERROR SQL Injection attempt
+ERROR XSS payload detected
+WARN Path traversal attempt
+ERROR Command injection detected
+WARN Suspicious User-Agent sqlmap
+ERROR Malware signature found
+WARN Unauthorized process started
+ERROR Reverse shell detected
+WARN Privilege escalation attempt
+WARN Port scan detected
+ERROR DDoS traffic spike
+WARN Suspicious outbound connection
+ERROR Connection to blacklist IP
+WARN Large file copied
+ERROR Sensitive data access denied
+WARN USB device mounted
+ERROR Mass download detectednnection to blacklist IP
