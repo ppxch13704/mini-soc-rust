@@ -1,0 +1,16 @@
+--- SOC SECURITY REPORT ---
+
+[Log Summary]
+INFO: 3
+ERROR: 16
+ALERT: 1
+WARN: 12
+
+[Threats Detected: 7]
+- [ALERT] Failed password root | ERROR Failed password root
+- [ALERT] SQL Injection | ERROR SQL Injection attempt
+- [ALERT] malware | ERROR Malware signature found
+- [ALERT] Failed password root | ERROR Failed password root
+- [ALERT] brute force | ALERT brute force detected
+- [ALERT] SQL Injection | ERROR SQL Injection attempt
+- [ALERT] malware | ERROR Malware signature found
